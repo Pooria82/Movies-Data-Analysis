@@ -33,7 +33,7 @@ To set up the environment for this project, follow these steps:
 
 3. Run the Jupyter Notebook to see the analysis in detail.
    ```bash
-   jupyter notebook main.ipynb
+   jupyter notebook Phase1.ipynb
    ```
 
 ## Project Overview
